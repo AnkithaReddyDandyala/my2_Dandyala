@@ -9,7 +9,6 @@ Hyderabad is known for its **Historic legacy and cultural diversity**. Hyderabd 
 2.Went to Movies and shopping malls
 3.Went to temples and restaurants
 
-
 * Fish Biryani
 * Butta Biryani
 * Mandi
