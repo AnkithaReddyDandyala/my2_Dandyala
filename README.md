@@ -29,3 +29,17 @@ Name of the Sport | Reason i recommend | Hours in an average weak|
   > The best way to predict future is to create it - *Peter Drucker*
   
   > Science is a way of thinking much more than it is a body of knowledge - *Carl Sagan*
+  *********
+  # Code Fencing
+  > A complete Guide to Flexbox - SVG <br>
+  [answer displayed](https://css-tricks.com/snippets/css/image-illustration-filter/)
+  ...
+  img {
+  /* ... */
+  filter:
+    grayscale(1) 
+    brightness(80%) 
+    contrast(150%) 
+    blur(2px);
+  mix-blend-mode: $blend-mode;
+}
