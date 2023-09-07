@@ -14,5 +14,5 @@ Hyderabad is known for its **Historic legacy and cultural diversity**. Hyderabd 
 * Mandi
 * Desserts
 
-[Link](MyStats.md)
+[Mystats.md](https://github.com/S567423/my2_Dandyala/blob/main/Mystats.md)
 
