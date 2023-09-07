@@ -15,4 +15,12 @@ Hyderabad is known for its **Historic legacy and cultural diversity**. Hyderabd 
 * Desserts
 
 [Mystats.md](https://github.com/S567423/my2_Dandyala/blob/main/Mystats.md)
+*****
+In this section i am going to Create a table on atleast 4 kinds of sports that i would recommend someone to try. Below table address the value of the sport and hours have to spend.
 
+Name of the Sport | Reason i recommend | Hours in an average weak|
+---------|--------|---------:|
+|FootBall|It improves analytical ability and increase bone strength.| 9 Hours |
+|Chess|It is a mental sport that challenges your strategic thinking and problem solving skills.|15 Hours|
+|Tennis |It is a racket sport that improves your agility and coordination and endurance.| 5 Hours|
+|Golf   |It a classic, mature sport that is less tedious and aggressive than most sports.| 7 Hours|
